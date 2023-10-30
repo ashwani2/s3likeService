@@ -53,7 +53,7 @@ In a production-ready version, several improvements and features should be consi
 
 ## Setup Instructions
 
-1. **Clone the Repository**: `git clone `
+1. **Clone the Repository**: `git clone https://github.com/ashwani2/s3likeService.git`
 2. **Install Dependencies**: `npm install`
 3. **Set Up Environment Variables**: Create a `.env` file in config folder
 4. **MONGO_URI**: Put your connection String there
